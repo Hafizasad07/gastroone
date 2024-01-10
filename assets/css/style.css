@@ -2453,6 +2453,10 @@ select option{
 }
 @media screen and (max-width: 767px) {
 
+    .owl-carousel .owl-item img{
+        width: 50vh;
+    }
+    
     .section1-rmfour-form .form-select{
         background-position: 95%;
     }
