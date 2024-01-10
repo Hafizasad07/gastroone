@@ -2452,7 +2452,8 @@ select option{
     box-shadow: none;
 }
 @media screen and (max-width: 767px) {
-
+    
+    .rmeight-bg,
     .owl-carousel .owl-item img{
         width: 50vh;
     }
