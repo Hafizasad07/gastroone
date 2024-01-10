@@ -2455,7 +2455,7 @@ select option{
     
     .rmeight-bg,
     .owl-carousel .owl-item img{
-        width: 350px;
+        height: 350px;
     }
     
     .section1-rmfour-form .form-select{
